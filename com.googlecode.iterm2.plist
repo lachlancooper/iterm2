@@ -521,9 +521,9 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>131 439 622 318 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>828 439 937 512 0 0 1920 1057 </string>
+	<string>828 382 770 429 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>960 0 960 1057 0 0 1920 1057 </string>
+	<string>1056 0 864 1057 0 0 1920 1057 </string>
 	<key>NeverWarnAboutShortLivedSessions_5D984656-3221-411A-9455-03B9AD3A4574</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_5D984656-3221-411A-9455-03B9AD3A4574_selection</key>
@@ -992,9 +992,9 @@
 				<key>0xf702-0x220000</key>
 				<dict>
 					<key>Action</key>
-					<integer>11</integer>
+					<integer>10</integer>
 					<key>Text</key>
-					<string>0x01</string>
+					<string>[1;2D</string>
 				</dict>
 				<key>0xf702-0x240000</key>
 				<dict>
@@ -1013,9 +1013,9 @@
 				<key>0xf703-0x220000</key>
 				<dict>
 					<key>Action</key>
-					<integer>11</integer>
+					<integer>10</integer>
 					<key>Text</key>
-					<string>0x05</string>
+					<string>[1;2C</string>
 				</dict>
 				<key>0xf703-0x240000</key>
 				<dict>
@@ -1254,6 +1254,8 @@
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>FBA0AA8A-24DF-4FF5-8E48-C0F3A7D69B23</string>
+	<key>NoSyncNeverAskAboutSettingAlternateMouseScroll</key>
+	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -1308,13 +1310,17 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-11-13T22:08:49Z</date>
+	<date>2017-12-03T22:04:12Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
+	<key>StretchTabsToFillBar</key>
+	<true/>
 	<key>WindowNumber</key>
 	<false/>
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
+	<key>findMode_iTerm</key>
+	<integer>0</integer>
 	<key>iTerm Version</key>
 	<string>3.1.5</string>
 </dict>
